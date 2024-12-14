@@ -32,7 +32,7 @@ Para executar este projeto, é necessário ter o Python 3 e as seguintes bibliot
 1. Clone este repositório:
 
 ```bash
-[[git clone https://github.com/leticiafcarvalho/DesafioReducaoDimensionalidade](https://github.com/AlexandreSAfonso/DIO_ML_Image_Reduction.git)](https://github.com/AlexandreSAfonso/DIO_ML_Image_Reduction.git)
+[git clone https://github.com/AlexandreSAfonso/DIO_ML_Image_Reduction.git](https://github.com/AlexandreSAfonso/DIO_ML_Image_Reduction.git)
 cd repo-nome
 ```
 
