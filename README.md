@@ -63,3 +63,5 @@ imagem_binaria.show()
 ## Contribuição
 
 Se você deseja contribuir com melhorias para este projeto, fique à vontade para abrir uma *issue* ou enviar um *pull request*.
+
+Texto original encontrado em https://github.com/leticiafcarvalho/DesafioReducaoDimensionalidade/blob/main/README.md
